@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hima TG Bhuwana</string>
+
+    <string name="home_text">HIMPUNAN MAHASISWA\nTEKNIK GEOFISIKA BHUWANA\n\nUNIVERSITAS LAMPUNG</string>
+
+    <string name="contact_text_nama">Ilham Triputra Sofiadin</string>
+    <string name="contact_text_jabatan">Kepala Bidang Multimedia Informasi</string>
+    <string name="contact_text_nomor">087878466613</string>
+
+    <string name="contact_line">HIMA TG UNILA\n@wyq5659p\n</string>
+    <string name="contact_instagram">geofisika_unila\n</string>
+    <string name="contact_twitter">\@geofisika_unila\n</string>
+    <string name="contact_web">himatg.eng.unila.ac.id\n\n</string>
+    <string name="contact_facebook">HIMA TG BHUWANA\n</string>
+    <string name="contact_gmail_youtube">teknikgeofisikaunila@gmail.com</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+</resources>
